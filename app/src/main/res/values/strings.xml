@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvmAch</string>
+    <string name="_1">1</string>
+    <string name="title">title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+</resources>
